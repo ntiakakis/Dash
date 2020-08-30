@@ -16,6 +16,23 @@ const dash = {
       return 0.5 * (b * h);
     },
   },
+  statistics: {
+    percent: (part, whole) => {
+      return (part / whole) * 100;
+    },
+    probability: (n, outcomes) => {
+      return n / outcomes;
+    },
+    avg: (a, b) => {
+      return (a + b) / 2;
+    },
+    min: (a, b) => {
+      return a > b ? b : a;
+    },
+    max: (a, b) => {
+      return a > b ? a : b;
+    },
+  },
 };
 
 module.exports = dash;
