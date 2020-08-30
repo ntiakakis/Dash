@@ -1,9 +1,10 @@
 # Dash
 
-## A JavaScript library
+## A JavaScript library for maths
 
 ### Todos
 
-- [ ] Goal 1
-- [ ] Goal 2
-- [x] Goal 3
+- [x] Unit Testing
+- [ ] Geometry Functions
+- [ ] Algebra Functions
+- [ ] Statistics Functions
