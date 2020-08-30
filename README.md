@@ -7,4 +7,4 @@
 - [x] Unit Testing
 - [ ] Geometry Functions
 - [ ] Algebra Functions
-- [ ] Statistics Functions
+- [x] Statistics Functions
