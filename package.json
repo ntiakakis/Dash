@@ -1,0 +1,24 @@
+{
+  "name": "dash",
+  "version": "1.0.0",
+  "description": "A JavaScript library",
+  "main": "src/dash.js",
+  "scripts": {
+    "test": "node src/dash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niggos1/Dash.git"
+  },
+  "keywords": [
+    "library",
+    "dash",
+    "tools"
+  ],
+  "author": "Edward Pasenidis <me@edpasenidis.tech> (me@edpasenidis.tech), Nikolaos Ntiakakis <ntiakakik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Niggos1/Dash/issues"
+  },
+  "homepage": "https://github.com/Niggos1/Dash#readme"
+}
