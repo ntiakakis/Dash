@@ -4,7 +4,7 @@
   "description": "A JavaScript library",
   "main": "src/dash.js",
   "scripts": {
-    "test": "node src/dash.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Niggos1/Dash/issues"
   },
-  "homepage": "https://github.com/Niggos1/Dash#readme"
+  "homepage": "https://github.com/Niggos1/Dash#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
 }
